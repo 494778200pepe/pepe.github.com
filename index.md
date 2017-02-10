@@ -1,15 +1,16 @@
-[Tags - Piasy的博客 | Piasy Blog](https://blog.piasy.com/tags/#RecyclerView) 
-[Trinea/android-open-project: Collect and classify android open source projects 微信公众号：codekk](https://github.com/Trinea/android-open-project)
-[android-cn/android-open-project-analysis: Analysis implementation of android open source project, 微信公众号:codekk, 网站:](https://github.com/android-cn/android-open-project-analysis)
+[Tags - Piasy的博客 | Piasy Blog](https://blog.piasy.com/tags/#RecyclerView) <br>
+[Trinea/android-open-project: Collect and classify android open source projects 微信公众号：codekk](https://github.com/Trinea/android-open-project)<br>
+[android-cn/android-open-project-analysis: Analysis implementation of android open source project, 微信公众号:codekk, 网站:](https://github.com/android-cn/android-open-project-analysis)<br>
 [从零开始的Android新项目5 - Repository层(上) Retrofit、Repository组装 | markzhai's home](http://blog.zhaiyifan.cn/2016/04/30/android-new-project-from-0-p5/)<br>
-[ZQiang94/Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
+[ZQiang94/Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)<br>
 [tianzhijiexian/Android-Best-Practices: Android最佳实践示例](https://github.com/tianzhijiexian/Android-Best-Practices<br>
-[专栏：深入理解Android - 博客频道 - CSDN.NET](http://blog.csdn.net/column/details/innost.html)
+[专栏：深入理解Android - 博客频道 - CSDN.NET](http://blog.csdn.net/column/details/innost.html)<br>
 
 #Android源码
 |-|-|
 | ------------- |-------------| 
 |源码|[小说Android源码解析篇 第一期——GitHub小伙伴出品 - 简书](http://www.jianshu.com/p/71a8ef305e2c#rd)
+
 #开源项目
 |-|-|
 | ------------- |-------------|
@@ -33,7 +34,7 @@ http://mp.weixin.qq.com/s?__biz=MzI1MTA3Mzk4Mg==&mid=2651019806&idx=1&sn=bc9c118
 
 #HTTP
 |-|-|
-|-|-|
+|-|--|
 |http|[HTTP协议详解 - 路，在脚下！ - 博客频道 - CSDN.NET](http://blog.csdn.net/chenzujie/article/details/8529674%7C)|
 |http|[HTTP协议详解 - MIN飞翔 - 博客园](http://www.cnblogs.com/EricaMIN1987_IT/p/3837436.html)
 |http|[深入理解HTTP协议](http://www.360doc.com/content/10/0930/17/3668821_57590979.shtml)
