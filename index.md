@@ -1,20 +1,20 @@
 Tags - Piasy的博客 | Piasy Blog
-https://blog.piasy.com/tags/#RecyclerView
+https://blog.piasy.com/tags/#RecyclerView <br>
 Trinea/android-open-project: Collect and classify android open source projects 微信公众号：codekk
-https://github.com/Trinea/android-open-project
+https://github.com/Trinea/android-open-project<br>
 android-cn/android-open-project-analysis: Analysis implementation of android open source project, 微信公众号:codekk, 网站:
-https://github.com/android-cn/android-open-project-analysis
+https://github.com/android-cn/android-open-project-analysis<br>
 从零开始的Android新项目5 - Repository层(上) Retrofit、Repository组装 | markzhai's home
-http://blog.zhaiyifan.cn/2016/04/30/android-new-project-from-0-p5/
+http://blog.zhaiyifan.cn/2016/04/30/android-new-project-from-0-p5/<br>
 ZQiang94/Andriod-collect-blogs
-https://github.com/ZQiang94/Andriod-collect-blogs
+https://github.com/ZQiang94/Andriod-collect-blogs<br>
 tianzhijiexian/Android-Best-Practices: Android最佳实践示例
-https://github.com/tianzhijiexian/Android-Best-Practices
+https://github.com/tianzhijiexian/Android-Best-Practices<br>
 专栏：深入理解Android - 博客频道 - CSDN.NET
-http://blog.csdn.net/column/details/innost.html
+http://blog.csdn.net/column/details/innost.html<br>
 #Android源码
 |-|-|
-|-|-|
+| ------------- |:-------------:| 
 |源码|[小说Android源码解析篇 第一期——GitHub小伙伴出品 - 简书](http://www.jianshu.com/p/71a8ef305e2c#rd)
 #开源项目
 |-|-|
