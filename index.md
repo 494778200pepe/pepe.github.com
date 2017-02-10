@@ -1,17 +1,18 @@
-[Tags - Piasy的博客 | Piasy Blog](https://blog.piasy.com/tags/#RecyclerView) <br>
-[Trinea/android-open-project: Collect and classify android open source projects 微信公众号：codekk](https://github.com/Trinea/android-open-project)<br>
-[android-cn/android-open-project-analysis: Analysis implementation of android open source project, 微信公众号:codekk, 网站:](https://github.com/android-cn/android-open-project-analysis)<br>
+[Tags - Piasy的博客 | Piasy Blog](https://blog.piasy.com/tags/#RecyclerView) 
+[Trinea/android-open-project: Collect and classify android open source projects 微信公众号：codekk](https://github.com/Trinea/android-open-project)
+[android-cn/android-open-project-analysis: Analysis implementation of android open source project, 微信公众号:codekk, 网站:](https://github.com/android-cn/android-open-project-analysis)
 [从零开始的Android新项目5 - Repository层(上) Retrofit、Repository组装 | markzhai's home](http://blog.zhaiyifan.cn/2016/04/30/android-new-project-from-0-p5/)<br>
-[ZQiang94/Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)<br>
+[ZQiang94/Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
 [tianzhijiexian/Android-Best-Practices: Android最佳实践示例](https://github.com/tianzhijiexian/Android-Best-Practices<br>
-[专栏：深入理解Android - 博客频道 - CSDN.NET](http://blog.csdn.net/column/details/innost.html)<br>
+[专栏：深入理解Android - 博客频道 - CSDN.NET](http://blog.csdn.net/column/details/innost.html)
+
 #Android源码
 |-|-|
-| ------------- |:-------------:| 
+| ------------- |-------------| 
 |源码|[小说Android源码解析篇 第一期——GitHub小伙伴出品 - 简书](http://www.jianshu.com/p/71a8ef305e2c#rd)
 #开源项目
 |-|-|
-| ------------- |:-------------:|
+| ------------- |-------------|
 |-|[GitHub上史上最全的Android开源项目分类汇总-----IT瘾](http://itindex.net/detail/51896-github-android-%E5%BC%80%E6%BA%90)
 |-|[qyxxjd/CarAssistant: 汽车助手:消费信息的增删改查;消费记录、百分比统计表;百公里油耗曲线图,最低油耗/最高油耗信息](https://github.com/qyxxjd/CarAssistant)
 |-|[rogerou/Baby: 一个私密社交APP,采用Dagger2+Rxjava+LeanCloud+环信+MVP进行开发。](https://github.com/rogerou/Baby)
@@ -25,14 +26,14 @@ http://mp.weixin.qq.com/s?__biz=MzI1MTA3Mzk4Mg==&mid=2651019806&idx=1&sn=bc9c118
 
 #内存
 |-|-|
-| ------------- |:-------------:|
+| ------------- |-------------|
 |-|[Android内存申请分析](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286327&idx=1&sn=b69513e3dfd1de848daefe03ab6719c2&scene=0&key=77421cf58af4a653ce7b7884af5eca79f7b8d4c5825ec56f5546c2af524e7b9ec296a3e90a89187d6968101b9e2f1b6b&ascene=0&uin=Mjg0NTk4NTcyMA==&devicetype=iMac%20MacBookPro11,5%20OSX%20OSX%2010.11.3%20build%2815D21%29&version=11020201&pass_ticket=DKowQcqcknvwrCXWVF%2bCkHF9vEjYtjWmUhOBYwYLJB2kwu3f759T0lN/1AYW948T)
 |-|[Android内存泄漏终极解决篇（上）](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=404369292&idx=1&sn=b496ba5925c592788bede3d1ed59c5ad&scene=23&srcid=0331Pgb5W90BX98OpN6qBJ1T#rd)
 |-|[Android内存泄漏终极解决篇（下）](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=404369292&idx=2&sn=ddc25b23147587194d099406d0d5819d&scene=23&srcid=0331Z1UaEDztOC6SN2IfYVEF#rd)
 
 #HTTP
 |-|-|
-| ------------- |:-------------:|
+|-|-|
 |http|[HTTP协议详解 - 路，在脚下！ - 博客频道 - CSDN.NET](http://blog.csdn.net/chenzujie/article/details/8529674%7C)|
 |http|[HTTP协议详解 - MIN飞翔 - 博客园](http://www.cnblogs.com/EricaMIN1987_IT/p/3837436.html)
 |http|[深入理解HTTP协议](http://www.360doc.com/content/10/0930/17/3668821_57590979.shtml)
@@ -48,7 +49,7 @@ http://mp.weixin.qq.com/s?__biz=MzI1MTA3Mzk4Mg==&mid=2651019806&idx=1&sn=bc9c118
 
 #图片框架
 |-|-
-| ------------- |:-------------:|
+| ------------- |-------------|
 |图片框架|[网络图片加载的封装【从零开始搭建android框架系列（4）】 - 简书](http://www.jianshu.com/p/e26130a93289?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq)
 |图片框架|[Android 三大图片缓存原理、设计、分层、特性上对比](http://www.trinea.cn/android/android-image-cache-compare/)
 |图片框架|[Android一整套图片解决方案](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820998&idx=1&sn=c9670674dcfb71a24521e898776f234e&scene=1&srcid=0905pKhAxMgRiscCSAaZEp1F#rd)
@@ -58,7 +59,7 @@ http://mp.weixin.qq.com/s?__biz=MzI1MTA3Mzk4Mg==&mid=2651019806&idx=1&sn=bc9c118
 
 ##Glide
 |-|-
-| ------------- |:-------------:|
+| ------------- |-------------|
 |Glide|[Glide - 系列综述 - 傅圆的博客](https://mrfu.me/2016/02/28/Glide_Series_Roundup/)
 |Glide|[Google推荐的图片加载库Glide介绍 - fancychendong的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/fancylovejava/article/details/44747759)
 |Glide|[Google推荐的图片加载库Glide介绍 - 泡在网上的日子](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)
@@ -66,7 +67,7 @@ http://mp.weixin.qq.com/s?__biz=MzI1MTA3Mzk4Mg==&mid=2651019806&idx=1&sn=bc9c118
 |Glide|[Glide使用简介及流程分析 - 简书](http://www.jianshu.com/p/7125feef0ddf)
 ##Fresco 
 |-|-
-| ------------- |:-------------:|
+| ------------- |-------------|
 |Fresco |[引入Fresco](https://www.fresco-cn.org/docs/)
 |Fresco |[Facebook Fresco体验 (一)-布布扣-bubuko.com](http://www.bubuko.com/infodetail-734570.html)
 |Fresco |[专栏：Fresco分析 - 博客频道 - CSDN.NET](http://blog.csdn.net/column/details/bzhfresco.html)
