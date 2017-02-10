@@ -20,9 +20,7 @@
 |-|[guxun12/ele_demo: 仿【饿了么】订餐软件的一个demo](https://github.com/guxun12/ele_demo)
 |pdf阅读器|[android-pdf阅读器（Android开源项目） - lxj1137800599的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/lxj1137800599/article/details/51693880)
 |-|[Google官方MVP+Dagger2架构详解【从零开始搭建android框架系列（6）】 - 简书](http://www.jianshu.com/p/01d3c014b0b1)
-
-Android快速实现文件下载（只有4行代码）
-http://mp.weixin.qq.com/s?__biz=MzI1MTA3Mzk4Mg==&mid=2651019806&idx=1&sn=bc9c1187e9c201d691c696c6de1d9bf3&scene=0#wechat_redirect
+|-|[Android快速实现文件下载（只有4行代码）](http://mp.weixin.qq.com/s?__biz=MzI1MTA3Mzk4Mg==&mid=2651019806&idx=1&sn=bc9c1187e9c201d691c696c6de1d9bf3&scene=0#wechat_redirect)
 
 
 #内存
